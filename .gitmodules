@@ -1,0 +1,3 @@
+[submodule "currency-remittance-frontend"]
+	path = currency-remittance-frontend
+	url = https://github.com/sourabhgarg7494/currency-remittance-frontend
